@@ -1,7 +1,8 @@
 # Finder-Directory
 
-![Finder-Directory](./imagens/mjpfelicia.github.io_Finder-Directory_%20(1).png)
-![Finder-Directory](./imagens/mjpfelicia.github.io_Finder-Directory_%20(2).png)
+![Finder-Directory](./imagens/descktp.png);
+![Finder-Directory](./imagens/mabile.png);
+
 
 
 ## Welcome! 👋
