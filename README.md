@@ -1,7 +1,7 @@
 # Finder-Directory
 
-![Finder-Directory](./design/desktop-design.jpg)
-![Finder-Directory](./design/mobile-design.jpg)
+![Finder-Directory](./imagens/mjpfelicia.github.io_Finder-Directory_%20(1).png)
+![Finder-Directory](./imagens/mjpfelicia.github.io_Finder-Directory_%20(2).png)
 
 
 ## Welcome! 👋
