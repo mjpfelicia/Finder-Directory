@@ -505,7 +505,7 @@ li {
         display: flex;
         width: 67%;
         border-bottom-right-radius: 0.75rem;
-        height: 90vw;
+        height: 95vw;
         left: 0;
         top: 0;
         background-color: rgba(var(--bs-secondary-rgb), var(--bs-bg-opacity));
